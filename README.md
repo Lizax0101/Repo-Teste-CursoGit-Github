@@ -1,2 +1,2 @@
-# Repo-Teste-CursoGit-Github
-repositorio teste do curso git-github
+# Curso Git-Github//
+Repositório teste para o curso.
